@@ -1,0 +1,44 @@
+*.dll
+*.exe
+*.o
+*.a
+*.so
+bin/
+modules-dev/
+/pkg/
+website/.vagrant
+website/.bundle
+website/build
+website/node_modules
+.vagrant/
+*.backup
+*.bak
+*.iml
+*.test
+
+website/vendor
+vendor/
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*~
+
+
+# VSCode debugging configurations
+.vscode/launch.json
+
+# Coverage
+coverage.txt
+
+# GoReleaser build directory
+dist/
+
+# Licensei cache file
+.licensei.cache
+
+# Development temp folder
+tmp
+
+# OS Specific
